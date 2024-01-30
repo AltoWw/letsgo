@@ -1,3 +1,3 @@
-module snippetbox.alto.kz
+module snippetbox.alto.net
 
 go 1.21.3
